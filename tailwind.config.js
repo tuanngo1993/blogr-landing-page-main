@@ -7,7 +7,14 @@ module.exports = {
             left: 'left',
             'left-300': '-300px',
             right: 'right',
+            'right-50': '50px', 
             top: 'top',
+        },
+        backgroundSize: {
+            'auto': 'auto',
+            'cover': 'cover',
+            'contain': 'contain',
+            '130': '130%',
         },
         borderRadius: {
             'none': '0',

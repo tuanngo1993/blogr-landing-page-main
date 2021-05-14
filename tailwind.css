@@ -7813,6 +7813,10 @@ video {
   background-position: right;
 }
 
+.bg-right-50 {
+  background-position: 50px;
+}
+
 .bg-top {
   background-position: top;
 }
@@ -7839,6 +7843,10 @@ video {
 
 .bg-repeat-space {
   background-repeat: space;
+}
+
+.bg-130 {
+  background-size: 130%;
 }
 
 .bg-auto {
@@ -36934,6 +36942,10 @@ video {
     background-position: right;
   }
 
+  .sm\:bg-right-50 {
+    background-position: 50px;
+  }
+
   .sm\:bg-top {
     background-position: top;
   }
@@ -36960,6 +36972,10 @@ video {
 
   .sm\:bg-repeat-space {
     background-repeat: space;
+  }
+
+  .sm\:bg-130 {
+    background-size: 130%;
   }
 
   .sm\:bg-auto {
@@ -65920,6 +65936,10 @@ video {
     background-position: right;
   }
 
+  .md\:bg-right-50 {
+    background-position: 50px;
+  }
+
   .md\:bg-top {
     background-position: top;
   }
@@ -65946,6 +65966,10 @@ video {
 
   .md\:bg-repeat-space {
     background-repeat: space;
+  }
+
+  .md\:bg-130 {
+    background-size: 130%;
   }
 
   .md\:bg-auto {
@@ -94906,6 +94930,10 @@ video {
     background-position: right;
   }
 
+  .lg\:bg-right-50 {
+    background-position: 50px;
+  }
+
   .lg\:bg-top {
     background-position: top;
   }
@@ -94932,6 +94960,10 @@ video {
 
   .lg\:bg-repeat-space {
     background-repeat: space;
+  }
+
+  .lg\:bg-130 {
+    background-size: 130%;
   }
 
   .lg\:bg-auto {
@@ -123892,6 +123924,10 @@ video {
     background-position: right;
   }
 
+  .xl\:bg-right-50 {
+    background-position: 50px;
+  }
+
   .xl\:bg-top {
     background-position: top;
   }
@@ -123918,6 +123954,10 @@ video {
 
   .xl\:bg-repeat-space {
     background-repeat: space;
+  }
+
+  .xl\:bg-130 {
+    background-size: 130%;
   }
 
   .xl\:bg-auto {
@@ -152878,6 +152918,10 @@ video {
     background-position: right;
   }
 
+  .\32xl\:bg-right-50 {
+    background-position: 50px;
+  }
+
   .\32xl\:bg-top {
     background-position: top;
   }
@@ -152904,6 +152948,10 @@ video {
 
   .\32xl\:bg-repeat-space {
     background-repeat: space;
+  }
+
+  .\32xl\:bg-130 {
+    background-size: 130%;
   }
 
   .\32xl\:bg-auto {
